@@ -14,5 +14,6 @@ while not crashed:
             crashed = True
 
     pg.display.flip()
+    clock.tick(60)
 
 pg.quit()
