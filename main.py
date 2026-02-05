@@ -1,5 +1,5 @@
 import pygame, sys
-from src.configuracoes import *
+from source.config import *
 
 class Jogo:
     def __init__(self):
